@@ -1,0 +1,12 @@
+target
+.settings
+.project
+.classpath
+.svn
+
+*.iml
+/out
+/.idea
+/*.iws
+*~
+#*#
