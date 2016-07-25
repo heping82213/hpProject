@@ -1,0 +1,19 @@
+<link rel="stylesheet" href="/web/sdk/css/themes/default/style.min.css"/>
+<link href="/web/sdk/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/web/sdk/zTree/css/zTreeStyle/zTreeStyle.css" rel="stylesheet"/>
+<link href="/web/sdk/bootstrap-multiselect-master/dist/css/bootstrap-multiselect.css"
+      rel="stylesheet"></link>
+<script src="/web/sdk/jquery.js"></script>
+<script src="/web/sdk/underscore.js"></script>
+<script src="/web/sdk/backbone.js"></script>
+<script src="/web/sdk/bootstrap/js/bootstrap.min.js"></script>
+<script src="/web/sdk/jquery-ui/jquery-ui.js"></script>
+<script src="/web/sdk/zTree/jquery.ztree.all-3.5.js"></script>
+<script src="/web/sdk/zTree/jquery.ztree.exhide.js"></script>
+<script src="/web/sdk/layer/layer.js"></script>
+<script src="/web/sdk/bootstrap-multiselect-master/dist/js/bootstrap-multiselect.js"></script>
+
+<script src="/web/src/js/mappingInfo.js"></script>
+<script src="/web/src/js/grayuserInfo.js"></script>
+<script src="/web/src/js/logInfo.js"></script>
+<script src="/web/src/js/rollback.js"></script>

@@ -1,0 +1,25 @@
+<script src="/web/src/main.css"></script>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/index.htm">数据迁移</a>
+        </div>
+        <div>
+            <ul class="nav nav-pills">
+                #set($url = "mappingManager")
+                <li style="padding-top:5px;padding-bottom: 5px"><a href="$url" class="navLink">映射语法</a></li>
+                #set($url = "grayUserManager")
+                <li style="padding-top:5px;padding-bottom: 5px"><a href="$url" class="navLink">灰度用户</a></li>
+                #set($url = "migrateManager")
+                <li style="padding-top:5px;padding-bottom: 5px"><a href="$url" class="navLink">数据迁移</a></li>
+                #set($url = "rollbackManager")
+                <li style="padding-top:5px;padding-bottom: 5px"><a href="$url" class="navLink">数据回滚</a></li>
+                #set($url = "logManager")
+                <li style="padding-top:5px;padding-bottom: 5px"><a href="$url" class="navLink">日志记录</a></li>
+                #set($url = "utilsManager")
+                <li style="padding-top:5px;padding-bottom: 5px"><a href="$url" class="navLink">工具</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+

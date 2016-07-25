@@ -46,4 +46,9 @@
 		<url-pattern>/checkpreload.htm</url-pattern>
 	</servlet-mapping>
 
+	<servlet-mapping>
+		<servlet-name>default</servlet-name>
+		<url-pattern>/status.taobao</url-pattern>
+	</servlet-mapping>
+
 </web-app>
